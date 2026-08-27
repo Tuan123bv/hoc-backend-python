@@ -1,0 +1,15 @@
+ghi chu ngay 18/8:
+-echo " noi dung " > or >> ten file : gan noi dung vao cuoi file 
+-mkdir ten thu muc  : tao thu muc
+-ls : liet ke cac file co trong thu muc hien tai 
+-cat : doc file 
+-touch : tao file
+-man ten lenh : xem huong dan
+-rm : xoa file 
+-cp : copy file 
+-mv : di chuyen file 
+-grep : loc
+-wc : dem
+-  > >> : gan vao file 
+-nano : chinh sua file
+
